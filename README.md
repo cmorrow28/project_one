@@ -8,12 +8,12 @@ In this project, we will look at how effective the COVID-19 vaccinations were on
 
 Team Members:
 - Geoffrey Pang
-- John Porretta
 - Cayley Morrow
+- John Porretta
 
 Research Questions to Answer
 
-1.Australia: Was vaccination effective?
+1.Australia: were vaccinations effective?
 
 2. How have COVID-19 vaccinations affected??
 a. Australia: New Cases vs New Deaths
