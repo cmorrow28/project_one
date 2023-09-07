@@ -16,22 +16,16 @@ Research Questions to Answer
 1.Australia: were vaccinations effective?
 
 2. How have COVID-19 vaccinations affected??
-   
-a. Australia: New Cases vs New Deaths
-
-b. Australia, Israel & Sweden: ICU patient admissions, confirmed cases and mortality rates
+   a. Australia: New Cases vs New Deaths
+   b. Australia, Israel & Sweden: ICU patient admissions, confirmed cases and mortality rates
 
 3.Does a difference in GDP Per Capita affect COVID-19 cases (using WorldBank API)?
-
-- first world (Australia)
-  
-- second world (Poland)
-  
-- third world (Sudan) – based on political and social aspects.
+   - first world (Australia)
+   - second world (Poland)
+   - third world (Sudan) – based on political and social aspects.
 
 4.How effective was using different vaccines?
-
-Israel (Pfizer only), China (SinoVax, SinoPharm) and Australia (AstraZ, Moderna, Pfizer)
+   - Israel (Pfizer only), China (SinoVax, SinoPharm) and Australia (AstraZ, Moderna, Pfizer)
 
 
 Our Data sets are taken from this two sources:
