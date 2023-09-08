@@ -37,7 +37,7 @@ The description of the dataset is given here https://github.com/owid/covid-19-da
 https://datahelpdesk.worldbank.org/knowledgebase/topics/125589-developer-information
 
 Data Processing.
-1. Selectice columns are taken form the csv file from Our World in Data.  Depending on the required plost, some groupby month was done with aggregate function of summation and mean were done.
+1. Selectice columns are taken form the csv file from Our World in Data.  Depending on the required plots, some groupby month was done with aggregate function of summation and mean were done.
 2. GDP Per Capita was gathered from World Bank API.
 
 
